@@ -1,4 +1,5 @@
 # OPIK
+# Opik is a simple, smart evaluation tool for AI apps.
 🧠 Opik – Custom Evaluation Framework for RAG
 ✨ What is Opik?
 Opik is a lightweight, customizable evaluation framework designed to measure the quality and reliability of responses in Retrieval-Augmented Generation (RAG) systems. It provides deeper insights beyond standard metrics, focusing on context grounding, hallucination detection, and answer trustworthiness.
